@@ -1,50 +1,38 @@
-## 💜 SIX Development 💜
+# 💜 zSIXx 💜
 
-Welcome to my GitHub profile.
+FiveM Developer focused on QBOX & QB-Core.
 
-I'm a FiveM developer focused on creating high-quality resources, modern user interfaces, and optimized systems for QBOX and QB-Core servers.
+## 🚀 About Me 🚀
 
-## 🚀 What You'll Find Here 🚀
+I'm a FiveM developer passionate about creating modern, optimized and user-friendly resources.
 
-* Custom FiveM Resources
-* QBOX & QB-Core Development
-* Modern UI/UX Projects
-* Server Configuration & Optimization
-* Performance-Focused Systems
-* Experimental Features & Concepts
+### 💜 Specializations 💜
 
-## 🎯 Goals 🎯
+- QBOX Development
+- QB-Core Development
+- Custom Scripts
+- UI / UX Design
+- Server Configuration
+- Performance Optimization
 
-My objective is to develop clean, reliable, and scalable resources that improve both the player experience and server performance.
+### 🛠️ Technologies 🛠️
 
-Every project is built with a strong focus on:
+- Lua
+- JavaScript
+- HTML
+- CSS
+- QBOX
+- QB-Core
+- ox_lib
+- ox_inventory
 
-* Clean and organized code
-* Modern design principles
-* Easy configuration
-* Stability and performance
-* Continuous improvements
+### 🎯 Goals 🎯
 
-## 🛠️ Technologies 🛠️
+My objective is to create high-quality resources, modern interfaces and optimized systems for the FiveM community.
 
-* Lua
-* JavaScript
-* HTML5
-* CSS3
-* QBOX
-* QB-Core
-* ox_lib
-* ox_inventory
-* FiveM Native API
-
-## 📦 Resources 📦
-
-Most repositories contain detailed installation instructions, configuration examples, and documentation to help server owners integrate them quickly.
-
-## 💜 About 💜
-
-Known in the digital world as **SIX**, I am passionate about creating unique experiences for the FiveM community through development, design, and innovation.
+Always learning.
+Always improving.
 
 ---
 
-**Developed by SIX**
+💜 Developed by zSIXx
