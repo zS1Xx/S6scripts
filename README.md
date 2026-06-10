@@ -1,10 +1,10 @@
-💜 SIX Development 💜
+## 💜 SIX Development 💜
 
 Welcome to my GitHub profile.
 
 I'm a FiveM developer focused on creating high-quality resources, modern user interfaces, and optimized systems for QBOX and QB-Core servers.
 
-🚀 What You'll Find Here 🚀
+## 🚀 What You'll Find Here 🚀
 
 * Custom FiveM Resources
 * QBOX & QB-Core Development
@@ -13,7 +13,7 @@ I'm a FiveM developer focused on creating high-quality resources, modern user in
 * Performance-Focused Systems
 * Experimental Features & Concepts
 
-🎯 Goals 🎯
+## 🎯 Goals 🎯
 
 My objective is to develop clean, reliable, and scalable resources that improve both the player experience and server performance.
 
@@ -25,7 +25,7 @@ Every project is built with a strong focus on:
 * Stability and performance
 * Continuous improvements
 
-🛠️ Technologies 🛠️
+## 🛠️ Technologies 🛠️
 
 * Lua
 * JavaScript
@@ -37,11 +37,11 @@ Every project is built with a strong focus on:
 * ox_inventory
 * FiveM Native API
 
-📦 Resources 📦
+## 📦 Resources 📦
 
 Most repositories contain detailed installation instructions, configuration examples, and documentation to help server owners integrate them quickly.
 
-## 💜 About
+## 💜 About 💜
 
 Known in the digital world as **SIX**, I am passionate about creating unique experiences for the FiveM community through development, design, and innovation.
 
